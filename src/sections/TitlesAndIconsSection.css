@@ -1,0 +1,17 @@
+.First {
+    background-color: #001399;
+    color: white;
+}
+
+.SocialLinks {
+    margin: 5px;
+    transition: all 0.5s;
+}
+
+.SocialLinks:hover {
+    transform: scale(1.2);
+}
+
+.element {
+    height: 0.05vh;
+}

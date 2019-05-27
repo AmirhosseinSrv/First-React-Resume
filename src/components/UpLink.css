@@ -1,0 +1,23 @@
+.UpLink {
+    height: 10vh;
+    background-color: transparent;
+    position: relative;
+    margin-bottom: -15vh;
+}
+
+@keyframes AnimationUpLink{
+    from{transform: translateY(20px)}
+    to{transform: translateY(0)}
+}
+
+.UpLink img {
+    animation: AnimationUpLink;
+    animation-duration: 1000ms;
+    animation-play-state: running;
+    animation-iteration-count: infinite;
+    width: 40px;
+}
+
+.element {
+    transform: translateY(-50px);
+}

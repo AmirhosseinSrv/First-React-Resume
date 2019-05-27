@@ -1,0 +1,23 @@
+.Navbar {
+    text-align: left;
+    background-color: #8B0000;
+    font-size: 10px;
+    width: 94vw;
+    position: fixed;
+    padding: 1% 0;
+    margin: 0;
+    transition: all 0.5s;
+    z-index: 9999;
+}
+
+.Navbar span {
+    color: white;
+    padding: 1% 1%;
+    height: 100%;
+    transition: all 0.5s;
+}
+
+.Navbar span:hover {
+    background-color: #AB0000;
+    cursor: pointer;
+}

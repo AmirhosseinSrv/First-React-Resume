@@ -1,0 +1,86 @@
+{
+    "title": "Hello, I'm Amirhossein!",
+    "subtitle": "Front-End and Python developer",
+    "links": {
+        "github": "https://github.com/AmirhosseinSrv",
+        "instagram": "https://www.instagram.com/amirhossein.srv/?hl=en",
+        "stackoverflow": "https://stackoverflow.com/story/amirhossein.srv"
+    },
+    "sections": [{
+            "title": "About me",
+            "items": [
+                {
+                    "content": "Hello I'm Amirhossein Sarvari!"
+                },
+                {
+                    "content": "I am studying Computer Engineering at Tehran University."
+                },
+                {
+                    "content": "I'm interesting in programming with python and also like to be a Front-End developer."
+                },
+                {
+                    "content": "Glad to see you in my website :) You can see my programming skills and a short story about myself here."
+                }
+            ]
+        },
+        {
+            "title": "Skills",
+            "items": [{
+                "type": "card",
+                "content": {
+                    "icon": "devicon-react-original-wordmark colored",
+                    "title": "React"
+                }
+            },
+            {
+                "type": "card",
+                "content": {
+                    "icon": "devicon-javascript-plain",
+                    "title": "Javascript"
+                }
+            },
+            {
+                "type": "card",
+                "content": {
+                    "icon": "devicon-html5-plain-wordmark colored",
+                    "title": "Html"
+                }
+            },
+            {
+                "type": "card",
+                "content": {
+                    "icon": "devicon-css3-plain-wordmark colored",
+                    "title": "CSS"
+                }
+            },
+            {
+                "type": "card",
+                "content": {
+                    "icon": "devicon-python-plain-wordmark",
+                    "title": "Python"
+                }
+            },
+            {
+                "type": "card",
+                "content": {
+                    "icon": "devicon-mysql-plain-wordmark colored",
+                    "title": "MySQL"
+                }
+            },
+                {
+                    "type": "card",
+                    "content": {
+                        "icon": "devicon-c-plain-wordmark colored",
+                        "title": "C"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "icon": "devicon-cplusplus-plain-wordmark colored",
+                        "title": "C++"
+                    }
+                }]
+        }
+    ]
+}

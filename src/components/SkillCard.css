@@ -1,0 +1,22 @@
+.Card {
+    display: inline-block;
+    width: 100px;
+    height: auto;
+    margin: 0 10% 5% 10%;
+    transition: all 0.5s;
+    background-color: darkgrey;
+}
+
+.Card:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+    box-shadow: 5px 5px black;
+}
+
+.Icon-Wrapper {
+    font-size: 25px;
+}
+
+.Skill-Title-Wrapper {
+    text-align: center;
+}
